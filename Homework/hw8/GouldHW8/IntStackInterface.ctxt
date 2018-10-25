@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=item
+comment0.target=void\ push(int)
+comment0.text=\n\ item\ is\ added\ tothe\ top\ of\ the\ stack\n
+comment1.params=
+comment1.target=void\ pop()
+comment1.text=\n\ item\ at\ top\ of\ stack\ is\ removed\n
+comment2.params=
+comment2.target=int\ top()
+comment2.text=\n\ reference\ to\ item\ at\ top\ of\ stack\ is\ returned\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\n\ Number\ of\ items\ on\ stack\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ true\ when\ stack\ contains\ no\ items,\ false\ otherwise\n
+numComments=5

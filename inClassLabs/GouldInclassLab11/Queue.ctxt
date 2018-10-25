@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Queue()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Stack\n
+comment1.params=item
+comment1.target=void\ enqueue(int)
+comment1.text=\n\ item\ is\ added\ to\ the\ back\ of\ the\ queue\n
+comment2.params=
+comment2.target=int\ dequeue()
+comment2.text=\n\ item\ at\ front\ of\ queue\ is\ removed\ and\ returned\n\ Precondition\:\ stack\ is\ not\ empty.\n\ ****\ User\ should\ verify\ that\ stack\ is\ not\ empty,\ \n\ ****\ before\ calling\ this\ method.\n
+comment3.params=
+comment3.target=int\ size()
+comment3.text=\n\ Number\ of\ items\ in\ queue\ \n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\n\ true\ when\ stack\ contains\ no\ items,\ false\ otherwise\n
+numComments=5

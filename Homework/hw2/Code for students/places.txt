@@ -1,0 +1,29 @@
+Tanger Outlet
+Tanger Outlet Blvd, North Charleston 
+mall, shopping, point_of_interest
+32.881779
+-80.018953
+
+Folly Beach
+W Ashley Ave, Folly Beach
+beach, water, sand, point_of_interest
+32.642365
+-79.968980
+
+Forever 21
+King St, Charleston
+shopping,clothing_store,point_of_interest
+32.780548
+-79.933509
+
+Histoirc Charleston City Market
+Market St., Charleston
+shopping,toursist, food
+32.781304
+-79.927879
+
+Harris Teeter
+East Bay St, Charleston
+food,convient_store, pharmacy, movie_rental, meal_delivery  
+32.784861
+-79.928210

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Stack\n
+comment1.params=item
+comment1.target=void\ push(int)
+comment1.text=\n\ item\ is\ added\ to\ the\ top\ of\ the\ stack\n
+comment2.params=
+comment2.target=void\ pop()
+comment2.text=\n\ item\ at\ top\ of\ stack\ is\ removed\n\ Precondition\:\ stack\ is\ not\ empty.\n\ ****\ User\ should\ verify\ that\ stack\ is\ not\ empty,\ \n\ ****\ before\ calling\ this\ method.\n
+comment3.params=
+comment3.target=int\ top()
+comment3.text=\n\ returns\ a\ reference\ item\ at\ top\ of\ stack\ is\ returned\n
+comment4.params=
+comment4.target=int\ size()
+comment4.text=\n\ Number\ of\ items\ on\ stack\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\n\ true\ when\ stack\ contains\ no\ items,\ false\ otherwise\n
+comment6.params=
+comment6.target=Stack\ copy()
+numComments=7
